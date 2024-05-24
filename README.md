@@ -28,9 +28,3 @@ https://lnkd.in/dgCHxY_C
 https://lnkd.in/dGrYvNad
 
 ---------------------------------------------------------------------------
-
-<br> <center> Ahmed Ali Bootcamp : </center> </br>
-
-https://www.youtube.com/playlist?list=PL3xG1ZdWPQtBX_DqAtc8Uo7CCL0vbYjjS
-
----------------------------------------------------------------------------
