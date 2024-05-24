@@ -3,7 +3,7 @@
 
 
 1- فيديو شرح المشروع علي يوتيوب :
-<br> <br> <center> Project Demo on YouTube : </center> </br> </br>
+<br> <center> Project Demo on YouTube : </center> </br>
 
 https://youtu.be/PnP-Wd1RA5U
 
