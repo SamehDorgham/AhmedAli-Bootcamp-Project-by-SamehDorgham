@@ -10,14 +10,14 @@ https://youtu.be/PnP-Wd1RA5U
 ---------------------------------------------------------------------------
 
 2- رابط المشروع لايف علي موقع NovyPro :
-<br> <br> Project Live Demo on NovyPro : </br> </br>
+<br> <center> Project Live Demo on NovyPro : </center> </br> 
 
 https://lnkd.in/d7VGDZRH
 
 ---------------------------------------------------------------------------
 
 3- رابط المشروع لايف علي موقع Power BI :
-<br> <br> Project Live Demo on Power BI Service : </br> </br>
+<br> <center> Project Live Demo on Power BI Service : </center> </br> 
 
 https://lnkd.in/dgCHxY_C
 
