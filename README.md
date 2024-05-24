@@ -17,20 +17,20 @@ https://lnkd.in/d7VGDZRH
 ---------------------------------------------------------------------------
 
 3- رابط المشروع لايف علي موقع Power BI :
-Project Live Demo on Power BI Service :
+<br> <br> Project Live Demo on Power BI Service : </br> </br>
 
 https://lnkd.in/dgCHxY_C
 
 ---------------------------------------------------------------------------
 
 4- فيديوهات البوت كامب الخاص بمهندس أحمد علي :
-Ahmed Ali Bootcamp Videos on YouTube :
+<br> <br> Ahmed Ali Bootcamp Videos on YouTube : </br> </br>
 
 https://lnkd.in/dGrYvNad
 
 ---------------------------------------------------------------------------
 
-Ahmed Ali Bootcamp :
+<br> <br> Ahmed Ali Bootcamp : </br> </br>
 
 https://www.youtube.com/playlist?list=PL3xG1ZdWPQtBX_DqAtc8Uo7CCL0vbYjjS
 
