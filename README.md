@@ -7,6 +7,7 @@
 <br> <center> Project Demo on YouTube : </center> </br>
 
 https://youtu.be/PnP-Wd1RA5U
+<video> https://youtu.be/PnP-Wd1RA5U </video>
 
 ---------------------------------------------------------------------------
 2- رابط المشروع لايف علي موقع NovyPro :
