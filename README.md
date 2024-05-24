@@ -3,24 +3,28 @@
 
 
 1- فيديو شرح المشروع علي يوتيوب :
+Project Demo on YouTube :
 
 https://youtu.be/PnP-Wd1RA5U
 
 ---------------------------------------------------------------------------
 
 2- رابط المشروع لايف علي موقع NovyPro :
+Project Live Demo on NovyPro :
 
 https://lnkd.in/d7VGDZRH
 
 ---------------------------------------------------------------------------
 
 3- رابط المشروع لايف علي موقع Power BI :
+Project Live Demo on Power BI Service :
 
 https://lnkd.in/dgCHxY_C
 
 ---------------------------------------------------------------------------
 
 4- فيديوهات البوت كامب الخاص بمهندس أحمد علي :
+Ahmed Ali Bootcamp Videos on YouTube :
 
 https://lnkd.in/dGrYvNad
 
