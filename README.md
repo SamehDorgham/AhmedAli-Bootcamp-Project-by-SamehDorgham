@@ -6,8 +6,9 @@
 1- فيديو شرح المشروع علي يوتيوب :
 <br> <center> Project Demo on YouTube : </center> </br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PnP-Wd1RA5U?si=sokrGwJ8eTXl-JNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 https://youtu.be/PnP-Wd1RA5U
-<video> https://youtu.be/PnP-Wd1RA5U </video>
 
 ---------------------------------------------------------------------------
 2- رابط المشروع لايف علي موقع NovyPro :
