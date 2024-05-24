@@ -1,6 +1,7 @@
 # AhmedAli-Bootcamp-Project-by-SamehDorgham
 مشروع بوت كامب تحليل البيانات - رمضان 2024 - الذي قدمة م.أحمد علي - تنفيذ سامح درغام
 
+---------------------------------------------------------------------------
 
 1- فيديو شرح المشروع علي يوتيوب :
 <br> <center> Project Demo on YouTube : </center> </br>
@@ -8,29 +9,26 @@
 https://youtu.be/PnP-Wd1RA5U
 
 ---------------------------------------------------------------------------
-
 2- رابط المشروع لايف علي موقع NovyPro :
 <br> <center> Project Live Demo on NovyPro : </center> </br> 
 
 https://lnkd.in/d7VGDZRH
 
 ---------------------------------------------------------------------------
-
 3- رابط المشروع لايف علي موقع Power BI :
 <br> <center> Project Live Demo on Power BI Service : </center> </br> 
 
 https://lnkd.in/dgCHxY_C
 
 ---------------------------------------------------------------------------
-
 4- فيديوهات البوت كامب الخاص بمهندس أحمد علي :
-<br> <br> Ahmed Ali Bootcamp Videos on YouTube : </br> </br>
+<br> <center> Ahmed Ali Bootcamp Videos on YouTube : </center> </br>
 
 https://lnkd.in/dGrYvNad
 
 ---------------------------------------------------------------------------
 
-<br> <br> Ahmed Ali Bootcamp : </br> </br>
+<br> <center> Ahmed Ali Bootcamp : </center> </br>
 
 https://www.youtube.com/playlist?list=PL3xG1ZdWPQtBX_DqAtc8Uo7CCL0vbYjjS
 
